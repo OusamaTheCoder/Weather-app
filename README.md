@@ -71,9 +71,9 @@ To use this Weather App, you'll need to obtain an API key from [WeatherAPI](http
 
 ## Screenshots
 
-![Light Mode](assets/screenshoot/Screenshot-2.jpg)
-
-![Dark Mode](assets/screenshoot/Screenshot-1.jpg)
+| Light Mode | Dark Mode |
+|------------|-----------|
+| ![Light Mode](assets/screenshoot/Screenshot-2.jpg) | ![Dark Mode](assets/screenshoot/Screenshot-1.jpg) |
 
 ## Contributing
 
